@@ -1,0 +1,64 @@
+{
+    "codigos": {
+        "000001": {
+            "nombre": "Daniel",
+            "apellido": "Concepcion",
+            "telefono": "9221916228",
+            "rutas": []
+        },
+        "000002": {
+            "nombre": "",
+            "apellido": "",
+            "telefono": "",
+            "rutas": []
+        },
+        "000003": {
+            "nombre": "",
+            "apellido": "",
+            "telefono": "",
+            "rutas": []
+        },
+        "000004": {
+            "nombre": "",
+            "apellido": "",
+            "telefono": "",
+            "rutas": []
+        },
+        "000005": {
+            "nombre": "Joel",
+            "apellido": "Saez",
+            "telefono": "9221910023",
+            "rutas": []
+        },
+        "000006": {
+            "nombre": "Angel",
+            "apellido": "Alvarado",
+            "telefono": "9223456754",
+            "rutas": []
+        },
+        "000007": {
+            "nombre": "Jose Eduardo",
+            "apellido": "Chavarria",
+            "telefono": "5556845689",
+            "rutas": []
+        },
+        "000008": {
+            "nombre": "",
+            "apellido": "",
+            "telefono": "",
+            "rutas": []
+        },
+        "000009": {
+            "nombre": "Jorge",
+            "apellido": "Salom\u00f3n",
+            "telefono": "7172837272",
+            "rutas": []
+        },
+        "0000010": {
+            "nombre": "",
+            "apellido": "",
+            "telefono": "",
+            "rutas": []
+        }
+    }
+}
